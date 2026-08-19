@@ -1,7 +1,6 @@
 import json
 from search import search
 
-# 20条测试问题（手写，体现赶工）
 TEST_QUERIES = [
     "稀土政策有什么新变化？",
     "铜价最近走势如何？",
